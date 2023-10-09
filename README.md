@@ -16,3 +16,4 @@ Run a Python program for feature extraction, for example, the PSSM feature extra
 # Note
 The PSSM files required for the PSSM feature extraction method have been pre-processed and stored in their respective directories.They can be directly read and utilized.You can merge all the results from different feature methods and save them into a single text file for easy access in subsequent steps.
 # Model
+Execute 'Stacking_Ensemble_prediction.py' to obtain predictions for the PPSNO predictor.Here,'x_train,' 'y_train,' 'x_val,' 'y_val,' 'x_test,' and 'y_test' represent the fused features for training,corresponding labels for training,fused features for validation,corresponding labels for validation,fused features for testing,and corresponding labels for testing,respectively.
