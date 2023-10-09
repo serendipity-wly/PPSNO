@@ -13,5 +13,6 @@ conda install pandas==1.1.5
 conda install scikit-learn==0.24.2
 # Feature extraction
 Run a Python program for feature extraction, for example, the PSSM feature extraction method, by executing the 'PSSM.py' file.
-Note that the PSSM files required for the PSSM feature extraction method have been pre-processed and stored in their respective directories.They can be directly read and utilized.
+# Note
+The PSSM files required for the PSSM feature extraction method have been pre-processed and stored in their respective directories.They can be directly read and utilized.You can merge all the results from different feature methods and save them into a single text file for easy access in subsequent steps.
 # Model
